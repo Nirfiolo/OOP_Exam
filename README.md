@@ -1,8 +1,8 @@
-##OOP_Exam
+## OOP_Exam
 
-###Tables
+### Tables
 
-####dots
+#### dots
 ```sql
 CREATE TABLE dots
 (
@@ -12,7 +12,7 @@ CREATE TABLE dots
 );
 ```
 
-####triangles
+#### triangles
 ```sql
 CREATE TABLE triangles
 (
